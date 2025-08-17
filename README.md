@@ -1,2 +1,20 @@
-# ConversorMoedas
-Projeto em Java que implementa um conversor de moedas interativo via terminal. Permite converter valores entre várias moedas utilizando taxas de câmbio atualizadas em tempo real por meio da API ExchangeRate-API. O sistema possui menu interativo, facilita a escolha de moedas e calcula o valor convertido de forma automática. 
+# Conversor de Moedas 💰
+## Descrição
+Aplicação em Java para converter valores entre diferentes moedas usando taxas de câmbio atualizadas via API.
+## Tecnologias
+- Java
+- Gson
+- ExchangeRate-API
+## Como Executar
+1. Clone o repositório:
+   git clone https://github.com/Paulorabeloo/ConversorMoedas.git
+2. Navegue até a pasta do projeto:
+   cd ConversorMoedas
+3. Compile o projeto:
+   javac ConversorMoedas.java
+4. Execute a aplicação:
+   java ConversorMoedas
+## Funcionalidades
+- Conversão entre múltiplas moedas.
+- Menu interativo via terminal.
+
